@@ -81,3 +81,12 @@ p{
 #social>a{
 	padding-right: 30px;
 }
+
+@media (max-width: 767px) {
+	h1{
+	margin: 100px auto auto auto;
+}
+p{
+	margin-top:-6px;
+}
+}
